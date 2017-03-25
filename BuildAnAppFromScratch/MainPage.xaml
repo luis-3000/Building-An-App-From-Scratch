@@ -18,7 +18,7 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Button x:Name="button1" Content="Show a message" HorizontalAlignment="Center" Margin="199,120,282,94" VerticalAlignment="Center" Click="button1_Click"/>
-        <Button x:Name="button2" Content="If/else" Grid.Column="1" HorizontalAlignment="Center" Margin="203,120,301,91" VerticalAlignment="Center"/>
+        <Button x:Name="button2" Content="If/else" Grid.Column="1" HorizontalAlignment="Center" Margin="203,120,301,91" VerticalAlignment="Center" Click="button2_Click"/>
         <Button x:Name="button3" Content="Another conditional test" HorizontalAlignment="Center" Margin="199,119,278,99" Grid.Row="1" VerticalAlignment="Center"/>
         <Button x:Name="button4" Content="A loop" Grid.Column="1" HorizontalAlignment="Center" Margin="206,122,301,82" Grid.Row="1" VerticalAlignment="Center"/>
         <TextBlock x:Name="myLabel" Grid.Column="2" Margin="-309,75,293,61" Grid.Row="2" TextWrapping="Wrap" Text="TextBlock" Grid.ColumnSpan="2" Style="{StaticResource BodyTextBlockStyle}"/>
