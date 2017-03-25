@@ -50,5 +50,16 @@ namespace BuildAnAppFromScratch
                 myLabel.Text = "x isn't 10";
             }
         }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            int someValue = 4;
+            string name = "Bobbo Jr.";
+            if ((someValue == 3) && (name == "Joe"))
+            {
+                myLabel.Text = "x is 3 and the name is Joe";
+            }
+            myLabel.Text = "this line runs no matter what";
+        }
     }
 }

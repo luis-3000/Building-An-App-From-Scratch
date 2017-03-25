@@ -34,7 +34,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Jose Luis Castillo\documents\visual studio 2015\Projects\BuildAnAppFromScratch\BuildAnAppFromScratch\bin\Debug\BuildAnAppFromScratch.exe">
       <PackagePath>BuildAnAppFromScratch.exe</PackagePath>
-      <Modified>2017-03-25T01:54:11.202</Modified>
+      <Modified>2017-03-25T01:59:10.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose Luis Castillo\documents\visual studio 2015\Projects\BuildAnAppFromScratch\BuildAnAppFromScratch\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -66,7 +66,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose Luis Castillo\documents\visual studio 2015\Projects\BuildAnAppFromScratch\BuildAnAppFromScratch\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2017-03-25T01:54:10.883</Modified>
+      <Modified>2017-03-25T01:59:10.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose Luis Castillo\documents\visual studio 2015\Projects\BuildAnAppFromScratch\BuildAnAppFromScratch\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
